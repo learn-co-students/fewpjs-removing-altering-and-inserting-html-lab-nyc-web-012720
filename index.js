@@ -1,1 +1,1 @@
-// Write your code here!
+console.log("Let's get it started!");
